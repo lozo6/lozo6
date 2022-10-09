@@ -47,7 +47,7 @@ technical_background:
   
 currently_learning: ["Python, SQL"]
 2022 Goals: ["Break into tech"]
-hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography"]
+hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP"]
 ```
 
 <h2>My GitHub History!</h2>
