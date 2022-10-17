@@ -36,7 +36,7 @@ fields_of_interests:
   [
     "Data Science",
     "Machine Learning",
-    "Cloud DevOps Engineer",
+    "Cloud DevOps",
     "Game Developement",
     "Web Development,
   ]
