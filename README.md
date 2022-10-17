@@ -40,12 +40,6 @@ fields_of_interests:
     "Game Developement",
     "Web Development,
   ]
-technical_background:
-  [
-    "Data Management',
-    "Data Input",
-    "Future Data Analyst Intern xD"
-  ]
   
 currently_learning: ["Python, SQL"]
 2022 Goals: ["Break into tech"]
