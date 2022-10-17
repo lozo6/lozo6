@@ -42,7 +42,9 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Future Intern xD"
+    "Data Management',
+    "Data Input",
+    "Future Data Analyst Intern xD"
   ]
   
 currently_learning: ["Python, SQL"]
