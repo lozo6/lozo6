@@ -38,10 +38,11 @@ fields_of_interests:
     "Machine Learning",
     "Cloud DevOps",
     "Game Developement",
-    "Web Development,
+    "Web Development",
   ]
-  
-currently_learning: ["Python, SQL"]
+
+technology_stack: ["Python, R, SQL, Flask, AWS, Microsoft Azure, GCP"]
+currently_learning: ["Javascript, GoLang"]
 2022 Goals: ["Break into tech"]
 hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP"]
 ```
