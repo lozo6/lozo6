@@ -41,7 +41,7 @@ fields_of_interests:
     "Web Development",
   ]
 
-technology_stack: ["Python, R, SQL, Flask, AWS, Microsoft Azure, Google Cloud Platform"]
+technology_stack: ["Python, R, SQL, Flask, Microsoft Azure, Google Cloud Platform"]
 currently_learning: ["Javascript, GoLang"]
 2022 Goals: ["Break into tech"]
 hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP"]
