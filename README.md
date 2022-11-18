@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src= "https://media.giphy.com/media/RMw1DhEAwx5ZK/giphy.gif">
+</p>
+
 <h2>A Little Bit About Me and My Interests</h2>
 
 ```yaml
