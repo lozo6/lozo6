@@ -52,7 +52,7 @@ hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP
 <img src="https://img.icons8.com/fluency/48/null/python.png" alt="python" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/null/css3.png" alt="css" width="48" height="48" />
-<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48" />
 <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" alt="mysql" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/null/git.png" alt="git" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="48" height="48"/>
