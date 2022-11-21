@@ -46,7 +46,7 @@ fields_of_interests:
   ]
 
 currently_learning: ["Javascript and GoLang"]
-2022 Goals: ["Break into tech"]
+2022 Goals: ["Create 5 new projects"]
 hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP"]
 ```
 
