@@ -28,13 +28,13 @@
 ```yaml
 name: Lorenzo Francisco
 located_in: New York, NY
-current_job: Medical Assistant
+current_job: Student Intern
 education:
   [
     "Master's in Applied Health Informatics",
     "Bachelor's in Health Science",
   ]
-company: Integrative Pain Management at New York
+company: Stony Brook University/Enterprise Analytics
 
 fields_of_interests:
   [
