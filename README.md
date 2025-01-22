@@ -28,25 +28,25 @@
 ```yaml
 name: Lorenzo Francisco
 located_in: New York, NY
-current_job: Student Intern
+current_job: Software Developer
 education:
   [
     "Master's in Applied Health Informatics",
     "Bachelor's in Health Science",
   ]
-company: Stony Brook University/Enterprise Analytics
+company: Northwell Health
 
 fields_of_interests:
   [
     "Data Science",
     "Machine Learning",
     "Cloud DevOps",
-    "Game Developement",
+    "Game Development",
     "Web Development",
   ]
 
 currently_learning: ["Javascript and GoLang"]
-2023 Goals: ["Create 5 new projects"]
+2025 Goals: ["Build on Raspberry Pi Zero 2 W", "Build Network PostgreSQL Server", "Learn Microcontrollers"]
 hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP"]
 ```
 
