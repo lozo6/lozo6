@@ -53,17 +53,18 @@ hobbies: ["Gaming", "Mechanical Keyboards", "PC Building", "Photography", "K-POP
 <h2>Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="vscode" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="48" height="48"/>
 <img src="https://img.icons8.com/fluency/48/null/python.png" alt="python" width="48" height="48" />
-<img src="https://img.icons8.com/dusk/48/javascript.png" alt="javascript" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/null/css3.png" alt="css" width="48" height="48" />
 <img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap" width="48" height="48" />
 <img src="https://img.icons8.com/bubbles/100/react.png" alt="react" width="48" height="48" />
+<img src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql" width="48" height="48" />
 <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" alt="mysql" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/null/git.png" alt="git" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/raspberry-pi.png" alt="raspberry-pi" width="48" height="48" />
-<img src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql" width="48" height="48" />
+
 </p>
 
 <h2>My GitHub History!</h2>
