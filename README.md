@@ -14,9 +14,9 @@
   <a href="https://www.instagram.com/lor.enzofrancisco/">
     <img src="https://user-images.githubusercontent.com/99729303/194738411-a3a84e30-1095-4201-967c-0d28d4c802a1.png">
   </a>
-  <a href="https://discord.gg/5HqAMAUVwG">
+  <!-- <a href="https://discord.gg/5HqAMAUVwG">
     <img src="https://user-images.githubusercontent.com/99729303/194737289-c3a2c6ef-159f-460b-9e3f-c507a2c774da.png">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
