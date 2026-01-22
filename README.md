@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/lorenzofrancisco/">
     <img src="https://user-images.githubusercontent.com/99729303/194737302-c761397a-0d43-4b13-ba9b-64cdffb4accc.png">
   </a>
-  <a href="https://twitter.com/lozof6">
+  <a href="https://x.com/lozo_6">
     <img src="https://user-images.githubusercontent.com/99729303/194738394-d0bada4c-7b40-482b-b805-755949ae03d7.png">
   </a>
-  <a href="https://www.instagram.com/lozo.6/">
+  <a href="https://www.instagram.com/lor.enzofrancisco/">
     <img src="https://user-images.githubusercontent.com/99729303/194738411-a3a84e30-1095-4201-967c-0d28d4c802a1.png">
   </a>
   <a href="https://discord.gg/5HqAMAUVwG">
