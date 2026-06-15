@@ -28,7 +28,7 @@
 ```yaml
 name: Lorenzo Francisco
 located_in: New York, NY
-current_job: Product Services & Management Analyst
+current_job: Software Engineer
 education:
   [
     "Master's in Applied Health Informatics",
